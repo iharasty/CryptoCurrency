@@ -1,0 +1,1 @@
+/mnt/c/Users/Isaac/anaconda3/envs/CryptoCurrency/python.exe C:/Users/Isaac/PycharmProjects/CryptoCurrency/run.py
